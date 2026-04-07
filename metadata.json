@@ -1,0 +1,5 @@
+{
+  "name": "KisanBazaar - Smart Farmer Marketplace",
+  "description": "A modern, AI-powered marketplace connecting farmers directly with consumers. Features include product listings, search, and smart farming advice powered by the Gemini API to provide crop and weather suggestions.",
+  "requestFramePermissions": []
+}
